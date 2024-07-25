@@ -1,1 +1,1 @@
-# this is git thetorial for beginners
+to enahnce my skill on VCS like a Github
